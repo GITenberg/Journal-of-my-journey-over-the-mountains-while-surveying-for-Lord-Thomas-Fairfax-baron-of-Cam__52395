@@ -1,0 +1,43 @@
+_repo: Journal-of-my-journey-over-the-mountains-while-surveying-for-Lord-Thomas-Fairfax-baron-of-Cam__52395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washington, George
+    alias: United States President (1789-1797)
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '4659'
+    url: http://www.gutenberg.org/2009/agents/4659
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington
+  editor:
+    agent_name: Toner, Joseph M. (Joseph Meredith)
+    aliases:
+    - Toner, J. M. (Joseph Meredith)
+    - Toner, Joseph Meredith
+    birthdate: 1825
+    deathdate: 1896
+    gutenberg_agent_id: '46839'
+    url: http://www.gutenberg.org/2009/agents/46839
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52395'
+  lccn: 08009214
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799 -- Travel -- Shenandoah River Valley (Va. and
+  W. Va.)'
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799 -- Diaries'
+- !lcsh 'Shenandoah River Valley (Va. and W. Va.) -- Description and travel -- Early
+  works to 1800'
+- !lcsh 'Virginia -- Description and travel -- Early works to 1800'
+- GITenberg
+title: "Journal of my journey over the mountains\r\nwhile surveying for Lord Thomas\
+  \ Fairfax, baron of Cameron, in the northern neck of Virginia, beyond the Blue Ridge,\
+  \ in 1747-8."
+url: http://www.gutenberg.org/ebooks/52395
