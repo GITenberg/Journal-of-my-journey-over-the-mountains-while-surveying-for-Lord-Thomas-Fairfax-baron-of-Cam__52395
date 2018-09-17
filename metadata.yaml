@@ -1,5 +1,8 @@
 _repo: Journal-of-my-journey-over-the-mountains-while-surveying-for-Lord-Thomas-Fairfax-baron-of-Cam__52395
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52395-h/images/cover.jpg
 creator:
   author:
     agent_name: Washington, George
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '46839'
     url: http://www.gutenberg.org/2009/agents/46839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52395#Journal-of-my-journey-over-the-mountains-while-surveying-for-Lord-Thomas-Fairfax-baron-of-Cam_
 gutenberg_issued: '2016-06-23'
 gutenberg_type: Text
 identifiers:
